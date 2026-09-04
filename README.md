@@ -1,0 +1,1 @@
+# FluxBox-Changelog
