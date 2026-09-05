@@ -4,9 +4,9 @@
 
 <br />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Red_copyright.svg/250px-Red_copyright.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20081001132737" alt="Stop Sign" width="150" />
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Copyright.svg/3840px-Copyright.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Copyright Sign" width="150" />
 
-### PROPRIETARY SOURCE-AVAILABLE LICENSE
+### ALL RIGHTS RESERVED
 
 **Copyright (c) 2026 Phantomware. All rights reserved.**
 
@@ -18,20 +18,21 @@
 
 ## 📖 Overview
 
-This repository contains **proprietary, source-available software** developed and maintained by **Phantomware**. The source code is made publicly visible solely for **transparency, security auditing, and verification purposes**.
+This repository contains official **changelogs, documentation, and media assets** for games developed by **Phantomware**. The content is made publicly visible solely for community information, transparency, and development tracking.
 
 ---
 
 ## 📜 Terms of Use
 
-By accessing or downloading this repository, you agree to the following terms:
+By accessing this repository, you agree to the following terms:
 
 ### ✅ PERMITTED USES
-* **View & Inspect:** You may view, download, and inspect the source code for personal auditing and evaluation purposes.
+* **View & Share:** You may freely read and share links to the updates contained in this repository.
+* **Community Sharing:** You are welcome to share game logos and screenshots on social media, blogs, or video platforms to promote the game, provided you credit **Phantomware**.
 
 ### ❌ RESTRICTIONS
-* **No Redistribution or Modifications:** You may **NOT** modify, redistribute, sublicense, or sell this source code or compiled binaries.
-* **No Derivative Works:** You may **NOT** use any part of this codebase in secondary or derivative commercial or non-commercial projects without explicit written consent from **Phantomware**.
+* **No Plagiarism:** You may **NOT** copy, modify, or republish the text, formatting, or custom logs found here as your own work.
+* **No Unauthorized Commercial Use:** You may **NOT** use, sell, or distribute the graphics, logos, or art assets for external commercial projects without explicit written consent from **Phantomware**.
 
 ---
 
@@ -39,4 +40,4 @@ By accessing or downloading this repository, you agree to the following terms:
 
 > [!CAUTION]
 > **Enforcement & Liability:**
-> Unlawful distribution, commercial exploitation, or unauthorized derivative works will result in immediate **DMCA takedown requests** and appropriate legal action.
+> Unauthorized commercial use or plagiarism of Phantomware intellectual property (including logos and text) will result in immediate **DMCA takedown requests** and appropriate legal action.
