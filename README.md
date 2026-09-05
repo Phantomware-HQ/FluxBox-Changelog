@@ -6,7 +6,7 @@ Made With ❤️ by **Phantomware**
 > **Version:** v0.2.9-beta  
 > **Engine:** HTML5 Canvas + Pixi.js  
 > **Play Open Beta:** [https://play-fluxbox.netlify.app/](https://play-fluxbox.netlify.app/)
-> > **Full Changelog:** [CHANGELOG](https://github.com/Phantomware-HQ/FluxBox-Changelog/releases)
+> **Full Changelog:** [CHANGELOG](https://github.com/Phantomware-HQ/FluxBox-Changelog/releases)
 
 ---
 
