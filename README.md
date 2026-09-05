@@ -35,8 +35,7 @@ Click on **"Wrenchiz"** 10 times rapidly and watch what happens 💘.
 
 ## ⚖️ License
 
-This project is licensed under a **Proprietary Source-Available License**.  
-Source code is made publicly visible solely for transparency, security auditing, and verification purposes.  
-See the [LICENSE](LICENSE.md) file for full terms and conditions.
+All rights reserved. The content, text, and media in this repository are the intellectual property of **Phantomware**.  
+See the [LICENSE](LICENSE.md) file for more details.
 
 © 2026 **Phantomware**. All rights reserved.
