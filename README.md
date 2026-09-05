@@ -1,9 +1,9 @@
 <img src="art/FluxBox_TP.png" width="400" alt="FluxBoxLogo">
 
-# FluxBox (Beta v2.9)
+# FluxBox (v0.2.9-beta)
 Made With ❤️ by **Phantomware**
 > **Developer:** Wrenchiz  
-> **Version:** Beta v2.9  
+> **Version:** v0.2.9-beta  
 > **Engine:** HTML5 Canvas + Pixi.js  
 > **Play Open Beta:** [https://play-fluxbox.netlify.app/](https://play-fluxbox.netlify.app/)  
 
