@@ -35,4 +35,7 @@ Click on **"Wrenchiz"** 10 times rapidly and watch what happens 💘.
 
 ## ⚖️ License
 
+This project is protected by copyright law.  
+Click [**HERE**](LICENSE.md) to view the full license terms.
+
 © 2026 **Phantomware**. All rights reserved.
